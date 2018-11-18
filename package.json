@@ -1,0 +1,20 @@
+{
+	"name": "axiomide",
+	"description": "Axiom IDE",
+	"version": "0.0.0",
+	"main": "axiomide.js",
+	"author":"Joe K. Kim",
+	"license":"Proprietary",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xgovern/axiom"
+	},
+	"keywords":["axiom","axiomide","awstria"],
+	"bugs": {
+		"url": "https://github.com/xgovern/axiom/issues"
+	},
+	"homepage": "https://github.com/xgovern/axiom",
+	"dependencies": {
+		
+	}
+}
